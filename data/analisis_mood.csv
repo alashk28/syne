@@ -1,21 +1,21 @@
-titulo,artista
-Say Say Say - Remastered 2015,Paul McCartney
-Part-Time Lover,Stevie Wonder
-Alright - 2015 Remaster,Supergrass
-My Sweet Lord - 2014 Remaster,George Harrison
-Yellow Submarine,The Beatles
-Pretty Girls Make Graves - 2011 Remaster,The Smiths
-Octopus's Garden - Remastered 2009,The Beatles
-She Drives Me Wild,Michael Jackson
-In the Closet,Michael Jackson
-I Love to Love,Tina Charles
-Liberian Girl - 2012 Remastered Version,Michael Jackson
-Smooth Criminal - 2012 Remaster,Michael Jackson
-Dirty Diana - 2012 Remaster,Michael Jackson
-I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster,Michael Jackson
-You Rock My World,Michael Jackson
-Upside Down,Diana Ross
-Hopelessly Devoted To You - From “Grease”,Olivia Newton-John
-Man in the Mirror - 2012 Remaster,Michael Jackson
-Another Part of Me - 2012 Remaster,Michael Jackson
-Just Good Friends - 2012 Remaster,Michael Jackson
+titulo,artista,popularidad,duracion_seg,explicit,mood
+Say Say Say - Remastered 2015,Paul McCartney,68,235,False,Neutro / Variado
+Part-Time Lover,Stevie Wonder,73,252,False,Neutro / Variado
+Alright - 2015 Remaster,Supergrass,72,181,False,Neutro / Variado
+My Sweet Lord - 2014 Remaster,George Harrison,74,281,False,Neutro / Variado
+Yellow Submarine,The Beatles,61,159,False,Neutro / Variado
+Pretty Girls Make Graves - 2011 Remaster,The Smiths,71,223,False,Neutro / Variado
+Octopus's Garden - Remastered 2009,The Beatles,67,170,False,Neutro / Variado
+She Drives Me Wild,Michael Jackson,52,221,False,Neutro / Variado
+In the Closet,Michael Jackson,65,392,False,Relajado / Ambiental
+I Love to Love,Tina Charles,59,183,False,Neutro / Variado
+Liberian Girl - 2012 Remastered Version,Michael Jackson,63,232,False,Neutro / Variado
+Smooth Criminal - 2012 Remaster,Michael Jackson,80,257,False,Neutro / Variado
+Dirty Diana - 2012 Remaster,Michael Jackson,71,280,False,Neutro / Variado
+I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster,Michael Jackson,63,253,False,Neutro / Variado
+You Rock My World,Michael Jackson,69,307,False,Relajado / Ambiental
+Upside Down,Diana Ross,82,245,False,Neutro / Variado
+Hopelessly Devoted To You - From “Grease”,Olivia Newton-John,78,185,False,Alegre / Comercial
+Man in the Mirror - 2012 Remaster,Michael Jackson,72,318,False,Relajado / Ambiental
+Another Part of Me - 2012 Remaster,Michael Jackson,58,234,False,Neutro / Variado
+Just Good Friends - 2012 Remaster,Michael Jackson,53,247,False,Neutro / Variado
